@@ -9,7 +9,7 @@
 <li>now visit localhost:4000/get?key='key_string'
 <li>Voila! The screen now displays the value of the key-value pair
 
-<h3>Tests<h3>
+<h3>Tests</h3>
 <br>
 <ul>
 <li>run rspec to check if the tests are passing. $rspec </li>
