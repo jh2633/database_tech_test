@@ -1,6 +1,6 @@
 #database_test_test
 
-<h1>Instructions<br>
+<h1>Instructions<h1><br>
 <li>clone the repo
 <li>Install the necessary gems using bundle, $bundle install
 <li>Start the server by running $ruby app.rb
@@ -8,4 +8,4 @@
 <li>now visit localhost:4000/get?key='key_string'
 <li>Voila! The screen now displays the value of the key-value pair
 
-<h1>Tests
+<h1>Tests<h1>
